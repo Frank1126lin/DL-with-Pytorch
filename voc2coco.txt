@@ -1,0 +1,5 @@
+How to use this voc2coco.py file.
+1. open the cmd windows.
+2. type as blow.
+3. python3 voc2coco.py ./{Your xml dir} ./{coco_instance.json}
+4. than Done.
