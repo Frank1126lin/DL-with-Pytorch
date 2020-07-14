@@ -1,0 +1,18 @@
+# pip install -U -r requirements.txt
+Cython
+numpy
+opencv-python
+torch
+matplotlib
+pillow
+tensorboard
+PyYAML
+torchvision
+scipy
+tqdm
+git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI
+fastapi
+uvicorn
+aiofiles
+python-multipart
+
